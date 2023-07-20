@@ -1,0 +1,22 @@
+a.navbar-brand.navbar-link{
+}
+
+body{
+}
+
+#logo{
+  max-height:40px;
+  margin-right:10px;
+  margin-top:-3px;
+  display:inline-block;
+}
+
+
+#footer p.footnote {
+	color: #08090e;
+	height: 40px;
+	line-height: 40px;
+	margin: 0;
+	text-align: center;
+	text-shadow: 0 1px #353446;
+}
